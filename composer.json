@@ -1,0 +1,11 @@
+{
+    "name": "tmajne/specyfication",
+    "type": "library",
+    "authors": [
+        {
+            "name": "TT",
+            "email": "ttomczyk@gmail.com"
+        }
+    ],
+    "require": {}
+}
