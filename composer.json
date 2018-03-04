@@ -26,5 +26,10 @@
         "psr-4": {
             "Nova\\Test\\Specyfication\\": "tests/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.5-dev"
+        }
     }
 }
